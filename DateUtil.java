@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 
-import androidx.annotation.NonNull;
 import java.util.Date;
 
 public class DateUtil {
